@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648835118352",
+    "project_id": "reloj-635f9",
+    "storage_bucket": "reloj-635f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648835118352:android:0c330278d3592de6586195",
+        "android_client_info": {
+          "package_name": "com.example.reloj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxf82igRk4tfSI3EiggDlnRFBtr2Sb8_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
